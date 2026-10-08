@@ -1,11 +1,10 @@
-
-![Welcome screen](docs/welcome.gif)
-
-
-![Main screen](docs/Welcome_page.png)
+Welcome Screen
 
 
-![Input screen](docs/Input_phase.png)
+Main Screen
 
 
-![Results screen](docs/Results_phase.png)
+Input Screen
+
+
+Results Screen
